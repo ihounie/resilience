@@ -1,0 +1,7 @@
+torch
+tqdm
+ray
+numpy
+torchvision
+tensorboard
+wandb

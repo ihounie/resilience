@@ -1,4 +1,4 @@
-# Resilient Constrained Learning
+# Resilient Invariance Constrained Learning
 
 This repository contains the code for the Invariance Constrained Learning Experiments (described on Appendix H).
 
